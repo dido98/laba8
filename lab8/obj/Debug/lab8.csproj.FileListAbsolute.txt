@@ -1,0 +1,9 @@
+D:\SIT_3KURS_6GRUPA\lab8\lab8\bin\Debug\lab8.exe.config
+D:\SIT_3KURS_6GRUPA\lab8\lab8\bin\Debug\lab8.exe
+D:\SIT_3KURS_6GRUPA\lab8\lab8\bin\Debug\lab8.pdb
+D:\SIT_3KURS_6GRUPA\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+D:\SIT_3KURS_6GRUPA\lab8\lab8\obj\Debug\lab8.Form1.resources
+D:\SIT_3KURS_6GRUPA\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\SIT_3KURS_6GRUPA\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.Cache
+D:\SIT_3KURS_6GRUPA\lab8\lab8\obj\Debug\lab8.exe
+D:\SIT_3KURS_6GRUPA\lab8\lab8\obj\Debug\lab8.pdb
